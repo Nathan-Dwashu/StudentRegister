@@ -1,0 +1,9 @@
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\bin\Debug\netstandard2.1\StudentRegister.Shared.deps.json
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\bin\Debug\netstandard2.1\StudentRegister.Shared.dll
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\bin\Debug\netstandard2.1\StudentRegister.Shared.pdb
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\obj\Debug\netstandard2.1\StudentRegister.Shared.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\obj\Debug\netstandard2.1\StudentRegister.Shared.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\obj\Debug\netstandard2.1\StudentRegister.Shared.AssemblyInfo.cs
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\obj\Debug\netstandard2.1\StudentRegister.Shared.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\obj\Debug\netstandard2.1\StudentRegister.Shared.dll
+C:\Users\natha\source\repos\StudentRegister\StudentRegister\Shared\obj\Debug\netstandard2.1\StudentRegister.Shared.pdb
